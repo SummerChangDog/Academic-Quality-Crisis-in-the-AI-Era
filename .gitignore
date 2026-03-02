@@ -51,3 +51,15 @@ ENV/
 .idea/  # PyCharm
 .vscode/  # VS Code
 *.sublime-*  # Sublime
+
+
+
+# Marimo
+marimo/_static/
+marimo/_lsp/
+__marimo__/
+
+# 学术项目
+data/       
+results/    
+logs/  
