@@ -1,0 +1,372 @@
+[
+  {
+    "index": 1,
+    "id": "bib.bib23",
+    "text": "G. E. Box and M. E. Muller (1958) A note on the generation of random normal deviates . The annals of mathematical statistics 29 ( 2 ), pp. 610–611 . Cited by: §1 , §4 .",
+    "links": [
+      "#S1.p4.1",
+      "#S4.p3.5"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 2,
+    "id": "bib.bib59",
+    "text": "T. Brooks, A. Holynski, and A. A. Efros (2023) Instructpix2pix: learning to follow image editing instructions . In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition , pp. 18392–18402 . Cited by: §A.6.5 .",
+    "links": [
+      "#A1.SS6.SSS5.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 3,
+    "id": "bib.bib4",
+    "text": "R. Chen, X. Chen, B. Ni, and Y. Ge (2020) Simswap: an efficient framework for high fidelity face swapping . In Proceedings of the 28th ACM international conference on multimedia , pp. 2003–2011 . Cited by: Table 4 .",
+    "links": [
+      "#A1.T4.1.1.10.10.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 4,
+    "id": "bib.bib34",
+    "text": "H. Fang, Z. Jia, Z. Ma, E. Chang, and W. Zhang (2022) PIMoG: an effective screen-shooting noise-layer simulation for deep-learning-based watermarking network . In Proceedings of the 30th ACM international conference on multimedia , pp. 2267–2275 . Cited by: §1 , §2 .",
+    "links": [
+      "#S1.p3.1",
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 5,
+    "id": "bib.bib10",
+    "text": "P. Fernandez, G. Couairon, H. Jégou, M. Douze, and T. Furon (2023) The stable signature: rooting watermarks in latent diffusion models . In Proceedings of the IEEE/CVF International Conference on Computer Vision , pp. 22466–22477 . Cited by: §A.6.1 , §1 , §6.1 .",
+    "links": [
+      "#A1.SS6.SSS1.p1.5",
+      "#S1.p1.1",
+      "#S6.SS1.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 6,
+    "id": "bib.bib20",
+    "text": "Google (2024) Gemini 2.0 flash . Note: https://deepmind.google/technologies/gemini/flash/ Cited by: §1 , Figure 8 .",
+    "links": [
+      "#S1.p3.1",
+      "#S6.F8",
+      "https://deepmind.google/technologies/gemini/flash/"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 7,
+    "id": "bib.bib7",
+    "text": "J. Ho, A. Jain, and P. Abbeel (2020) Denoising diffusion probabilistic models . Advances in neural information processing systems 33 , pp. 6840–6851 . Cited by: §A.6.1 .",
+    "links": [
+      "#A1.SS6.SSS1.p1.5"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 8,
+    "id": "bib.bib25",
+    "text": "H. Huang, Y. Wu, and Q. Wang (2024) Robin: robust and invisible watermarks for diffusion models with adversarial optimization . Advances in Neural Information Processing Systems 37 , pp. 3937–3963 . Cited by: §2 .",
+    "links": [
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 9,
+    "id": "bib.bib35",
+    "text": "Z. Jia, H. Fang, and W. Zhang (2021) Mbrs: enhancing robustness of dnn-based watermarking by mini-batch of real and simulated jpeg compression . In Proceedings of the 29th ACM international conference on multimedia , pp. 41–49 . Cited by: §2 .",
+    "links": [
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 10,
+    "id": "bib.bib42",
+    "text": "Z. Jiang, J. Zhang, and N. Z. Gong (2023) Evading watermark based detection of ai-generated content . In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security , pp. 1168–1181 . Cited by: §2 .",
+    "links": [
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 11,
+    "id": "bib.bib33",
+    "text": "J. Jing, X. Deng, M. Xu, J. Wang, and Z. Guan (2021) Hinet: deep image hiding by invertible network . In Proceedings of the IEEE/CVF international conference on computer vision , pp. 4733–4742 . Cited by: §2 .",
+    "links": [
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 12,
+    "id": "bib.bib32",
+    "text": "Y. Lan, F. Shang, J. Yang, X. Kang, and E. Li (2023) Robust image steganography: hiding messages in frequency coefficients . In Proceedings of the AAAI conference on artificial intelligence , Vol. 37 , pp. 14955–14963 . Cited by: §2 .",
+    "links": [
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 13,
+    "id": "bib.bib9",
+    "text": "T. Lin, M. Maire, S. Belongie, L. Bourdev, R. Girshick, J. Hays, P. Perona, D. Ramanan, C. L. Zitnick, and P. Dollár (2015) Microsoft coco: common objects in context . External Links: 1405.0312 , Link Cited by: §A.6.1 .",
+    "links": [
+      "#A1.SS6.SSS1.p1.5",
+      "https://arxiv.org/abs/1405.0312"
+    ],
+    "doi": null,
+    "arxiv_id": "1405.0312"
+  },
+  {
+    "index": 14,
+    "id": "bib.bib57",
+    "text": "C. Lu, Y. Zhou, F. Bao, J. Chen, C. Li, and J. Zhu (2022) Dpm-solver: a fast ode solver for diffusion probabilistic model sampling in around 10 steps . Advances in neural information processing systems 35 , pp. 5775–5787 . Cited by: §A.6.7 .",
+    "links": [
+      "#A1.SS6.SSS7.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 15,
+    "id": "bib.bib54",
+    "text": "P. C. Mahalanobis (2018) On the generalized distance in statistics . Sankhyā: The Indian Journal of Statistics, Series A (2008-) 80 , pp. S1–S7 . Cited by: §5.2 .",
+    "links": [
+      "#S5.SS2.p2.6"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 16,
+    "id": "bib.bib56",
+    "text": "A. J. Menezes, P. C. van Oorschot, and S. A. Vanstone (1996) Handbook of applied cryptography . CRC Press , Boca Raton, FL, USA . External Links: ISBN 978-0849385230 Cited by: §A.5 .",
+    "links": [
+      "#A1.SS5.p3.6"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 17,
+    "id": "bib.bib13",
+    "text": "Midjourney (2023) Midjourney . Note: https://www.midjourney.com Cited by: §4 .",
+    "links": [
+      "#S4.p1.1",
+      "https://www.midjourney.com"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 18,
+    "id": "bib.bib2",
+    "text": "A. Müller, D. Lukovnikov, J. Thietke, A. Fischer, and E. Quiring (2024) Black-box forgery attacks on semantic watermarks for diffusion models . arXiv preprint arXiv:2412.03283 . Cited by: Table 4 , Table 4 , Table 4 .",
+    "links": [
+      "#A1.T4.1.1.5.5.1.1.2.1",
+      "#A1.T4.1.1.7.7.1",
+      "#A1.T4.1.1.8.8.1.1.2.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 19,
+    "id": "bib.bib58",
+    "text": "W. Peebles and S. Xie (2023) Scalable diffusion models with transformers . In Proceedings of the IEEE/CVF international conference on computer vision , pp. 4195–4205 . Cited by: §A.6.7 .",
+    "links": [
+      "#A1.SS6.SSS7.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 20,
+    "id": "bib.bib21",
+    "text": "A. Ramesh, P. Dhariwal, A. Nichol, C. Chu, and M. Chen (2022) Hierarchical text-conditional image generation with clip latents . arXiv preprint arXiv:2204.06125 1 ( 2 ), pp. 3 . Cited by: §4 .",
+    "links": [
+      "#S4.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 21,
+    "id": "bib.bib5",
+    "text": "R. Rombach, A. Blattmann, D. Lorenz, P. Esser, and B. Ommer (2022) High-resolution image synthesis with latent diffusion models . In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition , pp. 10684–10695 . Cited by: §A.6.1 , Table 4 , §1 , §4 .",
+    "links": [
+      "#A1.SS6.SSS1.p1.5",
+      "#A1.T4.1.1.11.11.1",
+      "#S1.p3.1",
+      "#S4.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 22,
+    "id": "bib.bib3",
+    "text": "M. Saberi, V. S. Sadasivan, K. Rezaei, A. Kumar, A. Chegini, W. Wang, and S. Feizi (2023) Robustness of ai-image detectors: fundamental limits and practical attacks . arXiv preprint arXiv:2310.00076 . Cited by: Table 4 , Table 4 , §2 .",
+    "links": [
+      "#A1.T4.1.1.3.3.2.1.2.1",
+      "#A1.T4.1.1.4.4.1.1.2.1",
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 23,
+    "id": "bib.bib31",
+    "text": "S. Samuel and W. Penzhorn (2004) Digital watermarking for copyright protection . In 2004 IEEE Africon. 7th Africon Conference in Africa (IEEE Cat. No. 04CH37590) , Vol. 2 , pp. 953–957 . Cited by: §2 .",
+    "links": [
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 24,
+    "id": "bib.bib38",
+    "text": "J. Song, C. Meng, and S. Ermon (2020) Denoising diffusion implicit models . arXiv preprint arXiv:2010.02502 . Cited by: §4 .",
+    "links": [
+      "#S4.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 25,
+    "id": "bib.bib19",
+    "text": "M. Tancik, B. Mildenhall, and R. Ng (2020) Stegastamp: invisible hyperlinks in physical photographs . In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition , pp. 2117–2126 . Cited by: §1 , §2 .",
+    "links": [
+      "#S1.p3.1",
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 26,
+    "id": "bib.bib17",
+    "text": "U.S. Copyright Office (29-Jan-2025) Copyright office releases part 2 of artificial intelligence report . External Links: Link Cited by: §1 .",
+    "links": [
+      "#S1.p1.1",
+      "https://www.copyright.gov/newsnet/2025/1060.html"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 27,
+    "id": "bib.bib11",
+    "text": "Y. Wen, J. Kirchenbauer, J. Geiping, and T. Goldstein (2023) Tree-rings watermarks: invisible fingerprints for diffusion images . In Advances in Neural Information Processing Systems , A. Oh, T. Naumann, A. Globerson, K. Saenko, M. Hardt, and S. Levine (Eds.) , Vol. 36 , pp. 58047–58063 . External Links: Link Cited by: §1 , §2 , §6.1 .",
+    "links": [
+      "#S1.p1.1",
+      "#S2.p1.1",
+      "#S6.SS1.p3.1",
+      "https://proceedings.neurips.cc/paper_files/paper/2023/file/b54d1757c190ba20dbc4f9e4a2f54149-Paper-Conference.pdf"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 28,
+    "id": "bib.bib8",
+    "text": "W. Xia, Y. Yang, J. Xue, and B. Wu (2021) TediGAN: text-guided diverse face image generation and manipulation . External Links: 2012.03308 , Link Cited by: §A.6.1 .",
+    "links": [
+      "#A1.SS6.SSS1.p1.5",
+      "https://arxiv.org/abs/2012.03308"
+    ],
+    "doi": null,
+    "arxiv_id": "2012.03308"
+  },
+  {
+    "index": 29,
+    "id": "bib.bib24",
+    "text": "R. Xu, M. Hu, D. Lei, Y. Li, D. Lowe, A. Gorevski, M. Wang, E. Ching, and A. Deng (2025) InvisMark: invisible and robust watermarking for ai-generated image provenance . In 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) , pp. 909–918 . Cited by: §2 .",
+    "links": [
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 30,
+    "id": "bib.bib30",
+    "text": "J. Xuehua (2010) Digital watermarking and its application in image copyright protection . In 2010 International Conference on Intelligent Computation Technology and Automation , Vol. 2 , pp. 114–117 . Cited by: §2 .",
+    "links": [
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 31,
+    "id": "bib.bib12",
+    "text": "Z. Yang, K. Zeng, K. Chen, H. Fang, W. Zhang, and N. Yu (2024) Gaussian shading: provable performance-lossless image watermarking for diffusion models . In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition , pp. 12162–12171 . Cited by: §A.6.1 , §1 , §2 , §6.1 .",
+    "links": [
+      "#A1.SS6.SSS1.p1.5",
+      "#S1.p1.1",
+      "#S2.p1.1",
+      "#S6.SS1.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 32,
+    "id": "bib.bib6",
+    "text": "X. Zhang, R. Li, J. Yu, Y. Xu, W. Li, and J. Zhang (2024) Editguard: versatile image watermarking for tamper localization and copyright protection . In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition , pp. 11964–11974 . Cited by: §A.6.1 , §1 , §1 , §6.1 .",
+    "links": [
+      "#A1.SS6.SSS1.p1.5",
+      "#S1.p1.1",
+      "#S1.p3.1",
+      "#S6.SS1.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 33,
+    "id": "bib.bib36",
+    "text": "X. Zhao, K. Zhang, Z. Su, S. Vasan, I. Grishchenko, C. Kruegel, G. Vigna, Y. Wang, and L. Li (2024) Invisible image watermarks are provably removable using generative ai . Advances in Neural Information Processing Systems 37 , pp. 8643–8672 . Cited by: §2 , §2 .",
+    "links": [
+      "#S2.p1.1",
+      "#S2.p2.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 34,
+    "id": "bib.bib18",
+    "text": "J. Zhu, R. Kaplan, J. Johnson, and L. Fei-Fei (2018) Hidden: hiding data with deep networks . In Proceedings of the European conference on computer vision (ECCV) , pp. 657–672 . Cited by: §1 , §1 , §2 .",
+    "links": [
+      "#S1.p1.1",
+      "#S1.p3.1",
+      "#S2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  }
+]

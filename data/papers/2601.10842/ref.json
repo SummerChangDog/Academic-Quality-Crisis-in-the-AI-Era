@@ -1,0 +1,82 @@
+[
+  {
+    "index": 1,
+    "id": "bib.bib1",
+    "text": "[1] Ayah Almousa, Kuei-Nuan Lin, and Whitney Liske. Rees algebras of unit interval determinantal facet ideals. J. Pure Appl. Algebra , 228(5):Paper No. 107601, 15, 2024.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 2,
+    "id": "bib.bib2",
+    "text": "[2] Ayah Almousa and Keller VandeBogert. Linear strands of initial ideals of determinantal facet ideals. Comm. Algebra , 50(5):2198–2214, 2022.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 3,
+    "id": "bib.bib3",
+    "text": "[3] Marilena Crupi and Giancarlo Rinaldo. Binomial edge ideals with quadratic Gröbner bases. Electron. J. Combin. , 18(1):Paper 211, 13, 2011.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 4,
+    "id": "bib.bib4",
+    "text": "[4] Viviana Ene, Giancarlo Rinaldo, and Naoki Terai. Powers of binomial edge ideals with quadratic Gröbner bases. Nagoya Math. J. , 246:233–255, 2022.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 5,
+    "id": "bib.bib5",
+    "text": "[5] Jürgen Herzog, Takayuki Hibi, and Hidefumi Ohsugi. Binomial ideals , volume 279 of Graduate Texts in Mathematics . Springer, Cham, 2018.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 6,
+    "id": "bib.bib6",
+    "text": "[6] Jürgen Herzog, Dariush Kiani, and Sara Saeedi Madani. The linear strand of determinantal facet ideals. Michigan Math. J. , 66(1):107––123, 2017.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 7,
+    "id": "bib.bib7",
+    "text": "[7] Jürgen Herzog, Takayuki Hibi, Freyja Hreinsdóttir, Thomas Kahle, and Johannes Rauh. Binomial edge ideals and conditional independence statements. Advances in Applied Mathematics , 45(3):317–333, September 2010.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 8,
+    "id": "bib.bib8",
+    "text": "[8] Mel Hochster. Math 615: Lecture of february 2, 2007: Regular sequences in the monomial case. page 2, 2007.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 9,
+    "id": "bib.bib9",
+    "text": "[9] Masahiro Ohtani. Binomial edge ideals of complete multipartite graphs. Comm. Algebra , 41(10):3858–3867, 2013.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 10,
+    "id": "bib.bib10",
+    "text": "[10] Irena Peeva. Closed binomial edge ideals. J. Reine Angew. Math. , 803:1–33, 2023.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  }
+]

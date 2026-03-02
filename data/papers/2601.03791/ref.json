@@ -1,0 +1,470 @@
+[
+  {
+    "index": 1,
+    "id": "bib.bib15",
+    "text": "N. Carlini, S. Chien, M. Nasr, S. Song, A. Terzis, and F. Tramer (2022a) Membership inference attacks from first principles . In 2022 IEEE symposium on security and privacy (SP) , pp. 1897–1914 . Cited by: §C.3 .",
+    "links": [
+      "#A3.SS3.p2.2"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 2,
+    "id": "bib.bib19",
+    "text": "N. Carlini, D. Ippolito, M. Jagielski, K. Lee, F. Tramer, and C. Zhang (2022b) Quantifying memorization across neural language models . In The Eleventh International Conference on Learning Representations , Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 3,
+    "id": "bib.bib29",
+    "text": "N. Carlini, C. Liu, Ú. Erlingsson, J. Kos, and D. Song (2019) The secret sharer: evaluating and testing unintended memorization in neural networks . In 28th USENIX security symposium (USENIX security 19) , pp. 267–284 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 4,
+    "id": "bib.bib18",
+    "text": "N. Carlini, F. Tramer, E. Wallace, M. Jagielski, A. Herbert-Voss, K. Lee, A. Roberts, T. Brown, D. Song, U. Erlingsson, et al. (2021) Extracting training data from large language models . In 30th USENIX security symposium (USENIX Security 21) , pp. 2633–2650 . Cited by: §1 , §2.1 , §2.3 , §2.3 , §3.1 , §3.3 .",
+    "links": [
+      "#S1.p1.1",
+      "#S2.SS1.p1.1",
+      "#S2.SS3.p1.1",
+      "#S2.SS3.p2.1",
+      "#S3.SS1.SSS0.Px1.p1.1",
+      "#S3.SS3.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 5,
+    "id": "bib.bib58",
+    "text": "K. Chang, M. Cramer, S. Soni, and D. Bamman (2023) Speak, memory: an archaeology of books known to chatgpt/gpt-4 . In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing , pp. 7312–7327 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 6,
+    "id": "bib.bib2",
+    "text": "Y. Chen, R. Biswas, H. Lent, and J. Bjerva (2025) Against all odds: overcoming typology, script, and language confusion in multilingual embedding inversion attacks . In Proceedings of the AAAI Conference on Artificial Intelligence , Vol. 39 , pp. 23632–23641 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 7,
+    "id": "bib.bib6",
+    "text": "M. Duan, A. Suri, N. Mireshghallah, S. Min, W. Shi, L. Zettlemoyer, Y. Tsvetkov, Y. Choi, D. Evans, and H. Hajishirzi (2024) Do membership inference attacks work on large language models? . In Conference on Language Modeling (COLM) , Cited by: §3.3 , §4.4 , §5.5 .",
+    "links": [
+      "#S3.SS3.p1.1",
+      "#S4.SS4.p1.1",
+      "#S5.SS5.p1.3"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 8,
+    "id": "bib.bib63",
+    "text": "L. Gao, S. Biderman, S. Black, L. Golding, T. Hoppe, C. Foster, J. Phang, H. He, A. Thite, N. Nabeshima, et al. (2020) The pile: an 800gb dataset of diverse text for language modeling . arXiv preprint arXiv:2101.00027 . Cited by: Appendix H .",
+    "links": [
+      "#A8.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 9,
+    "id": "bib.bib82",
+    "text": "J. Hayes, I. Shumailov, C. A. Choquette-Choo, M. Jagielski, G. Kaissis, K. Lee, M. Nasr, S. Ghalebikesabi, N. Mireshghallah, M. Sundaram Mutu Selva Annamalai, et al. (2025) Strong membership inference attacks on massive datasets and (moderately) large language models . arXiv e-prints , pp. arXiv–2505 . Cited by: 2nd item .",
+    "links": [
+      "#S3.I2.i2.p1.2"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 10,
+    "id": "bib.bib21",
+    "text": "J. Huang, H. Shao, and K. C. Chang (2022) Are large pre-trained language models leaking your personal information? . arXiv preprint arXiv:2205.12628 . Cited by: Appendix H , §1 , §2.2 , §3.1 , §4.3 .",
+    "links": [
+      "#A8.p1.1",
+      "#S1.p2.1",
+      "#S2.SS2.p1.1",
+      "#S3.SS1.SSS0.Px1.p1.1",
+      "#S4.SS3.SSS0.Px2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 11,
+    "id": "bib.bib24",
+    "text": "A. Jagannatha, B. P. S. Rawat, and H. Yu (2021) Membership inference attack susceptibility of clinical language models . arXiv preprint arXiv:2104.08305 . Cited by: §2.3 .",
+    "links": [
+      "#S2.SS3.p2.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 12,
+    "id": "bib.bib56",
+    "text": "A. Karamolegkou, J. Li, L. Zhou, and A. Søgaard (2023) Copyright violations and large language models . In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing , pp. 7403–7412 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 13,
+    "id": "bib.bib3",
+    "text": "S. Kim, S. Yun, H. Lee, M. Gubri, S. Yoon, and S. J. Oh (2023) Propile: probing privacy leakage in large language models . Advances in Neural Information Processing Systems 36 , pp. 20750–20762 . Cited by: §1 , §2.1 , §2.2 , 2nd item , §3.1 , §4.3 .",
+    "links": [
+      "#S1.p2.1",
+      "#S2.SS1.p1.1",
+      "#S2.SS2.p1.1",
+      "#S3.I2.i2.p1.2",
+      "#S3.SS1.SSS0.Px1.p1.1",
+      "#S4.SS3.SSS0.Px2.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 14,
+    "id": "bib.bib65",
+    "text": "B. Klimt and Y. Yang (2004) The enron corpus: a new dataset for email classification research . In European conference on machine learning , pp. 217–226 . Cited by: Appendix H .",
+    "links": [
+      "#A8.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 15,
+    "id": "bib.bib5",
+    "text": "K. Lee, D. Ippolito, A. Nystrom, C. Zhang, D. Eck, C. Callison-Burch, and N. Carlini (2021) Deduplicating training data makes language models better . arXiv preprint arXiv:2107.06499 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 16,
+    "id": "bib.bib95",
+    "text": "B. Li, Q. Zhao, and L. Wen (2024) Rome: memorization insights from text, logits and representation . arXiv preprint arXiv:2403.00510 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 17,
+    "id": "bib.bib4",
+    "text": "Q. Li, X. Luo, Y. Chen, and J. Bjerva (2025) Trustworthy machine learning via memorization and the granular long-tail: a survey on interactions, tradeoffs, and beyond . arXiv preprint arXiv:2503.07501 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 18,
+    "id": "bib.bib83",
+    "text": "N. Lukas, A. Salem, R. Sim, S. Tople, L. Wutschitz, and S. Zanella-Béguelin (2023) Analyzing leakage of personally identifiable information in language models . In 2023 IEEE Symposium on Security and Privacy (SP) , pp. 346–363 . Cited by: Appendix H , §1 , §2.1 , §2.2 , §3.1 .",
+    "links": [
+      "#A8.p1.1",
+      "#S1.p2.1",
+      "#S2.SS1.p1.1",
+      "#S2.SS2.p1.1",
+      "#S3.SS1.SSS0.Px1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 19,
+    "id": "bib.bib10",
+    "text": "X. Luo, Y. Chen, J. Bjerva, and Q. Li (2025) Shared path: unraveling memorization in multilingual llms through language similarities . In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) , Suzhou, China . Cited by: §2.1 , 2nd item , §4.1 .",
+    "links": [
+      "#S2.SS1.p2.1",
+      "#S3.I2.i2.p1.2",
+      "#S4.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 20,
+    "id": "bib.bib25",
+    "text": "J. Mattern, F. Mireshghallah, Z. Jin, B. Schoelkopf, M. Sachan, and T. Berg-Kirkpatrick (2023) Membership inference attacks against language models via neighbourhood comparison . In Findings of the Association for Computational Linguistics: ACL 2023 , A. Rogers, J. Boyd-Graber, and N. Okazaki (Eds.) , Toronto, Canada . Cited by: §2.3 .",
+    "links": [
+      "#S2.SS3.p2.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 21,
+    "id": "bib.bib32",
+    "text": "M. Nasr, N. Carlini, J. Hayase, M. Jagielski, A. F. Cooper, D. Ippolito, C. A. Choquette-Choo, E. Wallace, F. Tramèr, and K. Lee (2023) Scalable extraction of training data from (production) language models . arXiv preprint arXiv:2311.17035 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 22,
+    "id": "bib.bib1",
+    "text": "E. Ploeger, W. Poelman, M. de Lhoneux, and J. Bjerva (2024) What is “typological diversity” in NLP? . In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing , Y. Al-Onaizan, M. Bansal, and Y. Chen (Eds.) , Miami, Florida, USA , pp. 5681–5700 . External Links: Link , Document Cited by: §4.2 .",
+    "links": [
+      "#S4.SS2.p1.2",
+      "https://aclanthology.org/2024.emnlp-main.326/",
+      "https://dx.doi.org/10.18653/v1/2024.emnlp-main.326"
+    ],
+    "doi": "10.18653/v1/2024.emnlp-main.326",
+    "arxiv_id": null
+  },
+  {
+    "index": 23,
+    "id": "bib.bib77",
+    "text": "E. Ploeger, W. Poelman, A. H. Høeg-Petersen, A. Schlichtkrull, M. de Lhoneux, and J. Bjerva (2025) A principled framework for evaluating on typologically diverse languages . Computational Linguistics , pp. 1–36 . External Links: ISSN 0891-2017 , Document , Link , https://direct.mit.edu/coli/article-pdf/doi/10.1162/COLI.a.577/2561978/coli.a.577.pdf Cited by: §4.2 .",
+    "links": [
+      "#S4.SS2.p1.2",
+      "https://doi.org/10.1162/COLI.a.577",
+      "https://dx.doi.org/10.1162/COLI.a.577"
+    ],
+    "doi": "10.1162/COLI.a.577",
+    "arxiv_id": null
+  },
+  {
+    "index": 24,
+    "id": "bib.bib53",
+    "text": "QwenTeam (2025) Qwen3 technical report . External Links: 2505.09388 , Link Cited by: §A.2 , §4.3 .",
+    "links": [
+      "#A1.SS2.p8.1",
+      "#S4.SS3.SSS0.Px2.p1.1",
+      "https://arxiv.org/abs/2505.09388"
+    ],
+    "doi": null,
+    "arxiv_id": "2505.09388"
+  },
+  {
+    "index": 25,
+    "id": "bib.bib34",
+    "text": "C. Raffel, N. Shazeer, A. Roberts, K. Lee, S. Narang, M. Matena, Y. Zhou, W. Li, and P. J. Liu (2020) Exploring the limits of transfer learning with a unified text-to-text transformer . Journal of machine learning research 21 ( 140 ), pp. 1–67 . Cited by: §4.1 .",
+    "links": [
+      "#S4.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 26,
+    "id": "bib.bib16",
+    "text": "E. S. Ruzzetti, G. A. Xompero, D. Venditti, and F. M. Zanzotto (2025) Private memorization editing: turning memorization into a defense to strengthen data privacy in large language models . arXiv preprint arXiv:2506.10024 . Cited by: Appendix H , §1 , §2.2 , §5.2 .",
+    "links": [
+      "#A8.p1.1",
+      "#S1.p2.1",
+      "#S2.SS2.p1.1",
+      "#S5.SS2.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 27,
+    "id": "bib.bib8",
+    "text": "A. Satvaty, A. Visman, D. Seidel, S. Verberne, and F. Turkmen (2025) Memorization is language-sensitive: analyzing memorization and inference risks of llms in a multilingual setting . In Proceedings of the First Workshop on Large Language Model Memorization (L2M2) , pp. 106–126 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p2.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 28,
+    "id": "bib.bib12",
+    "text": "W. Shi, A. Ajith, M. Xia, Y. Huang, D. Liu, T. Blevins, D. Chen, and L. Zettlemoyer (2023) Detecting pretraining data from large language models . External Links: 2310.16789 Cited by: §2.3 , §3.3 .",
+    "links": [
+      "#S2.SS3.p2.1",
+      "#S3.SS3.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 29,
+    "id": "bib.bib55",
+    "text": "O. Shliazhko, A. Fenogenova, M. Tikhonova, A. Kozlova, V. Mikhailov, and T. Shavrina (2024) Mgpt: few-shot learners go multilingual . Transactions of the Association for Computational Linguistics 12 , pp. 58–79 . Cited by: §4.1 .",
+    "links": [
+      "#S4.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 30,
+    "id": "bib.bib22",
+    "text": "R. Shokri, M. Stronati, C. Song, and V. Shmatikov (2017) Membership inference attacks against machine learning models . In 2017 IEEE symposium on security and privacy (SP) , pp. 3–18 . Cited by: §2.3 .",
+    "links": [
+      "#S2.SS3.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 31,
+    "id": "bib.bib78",
+    "text": "H. Skirgård, H. J. Haynie, D. E. Blasi, H. Hammarström, J. Collins, J. J. Latarche, J. Lesage, T. Weber, A. Witzlack-Makarevich, S. Passmore, et al. (2023) Grambank reveals the importance of genealogical constraints on linguistic diversity and highlights the impact of language loss . Science Advances 9 ( 16 ), pp. eadg6175 . Cited by: §4.2 .",
+    "links": [
+      "#S4.SS2.p1.2"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 32,
+    "id": "bib.bib7",
+    "text": "A. Srivastava, E. Korukluoglu, M. N. Le, D. Tran, C. M. Pham, M. Karpinska, and M. Iyyer (2025) OWL: probing cross-lingual recall of memorized texts via world literature . arXiv preprint arXiv:2505.22945 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p2.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 33,
+    "id": "bib.bib35",
+    "text": "Z. Tan, X. Zhang, S. Wang, and Y. Liu (2021) MSP: multi-stage prompting for making pre-trained language models better translators . arXiv preprint arXiv:2110.06609 . Cited by: §4.1 .",
+    "links": [
+      "#S4.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 34,
+    "id": "bib.bib17",
+    "text": "D. Venditti, E. S. Ruzzetti, G. A. Xompero, C. Giannone, A. Favalli, R. Romagnoli, and F. M. Zanzotto (2024) Enhancing data privacy in large language models through private association editing . arXiv preprint arXiv:2406.18221 . Cited by: Appendix H , §1 , §2.2 , §5.2 .",
+    "links": [
+      "#A8.p1.1",
+      "#S1.p2.1",
+      "#S2.SS2.p1.1",
+      "#S5.SS2.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 35,
+    "id": "bib.bib14",
+    "text": "B. Wang and A. Komatsuzaki (2021) GPT-J-6B: A 6 Billion Parameter Autoregressive Language Model . Note: https://github.com/kingoflolz/mesh-transformer-jax Cited by: Appendix H .",
+    "links": [
+      "#A8.p1.1",
+      "https://github.com/kingoflolz/mesh-transformer-jax"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 36,
+    "id": "bib.bib26",
+    "text": "C. Wei, M. Zhao, Z. Zhang, M. Chen, W. Meng, B. Liu, Y. Fan, and W. Chen (2023) Dpmlbench: holistic evaluation of differentially private machine learning . In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security , pp. 2621–2635 . Cited by: §3.3 .",
+    "links": [
+      "#S3.SS3.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 37,
+    "id": "bib.bib88",
+    "text": "B. Workshop, T. L. Scao, A. Fan, C. Akiki, E. Pavlick, S. Ilić, D. Hesslow, R. Castagné, A. S. Luccioni, F. Yvon, et al. (2022) Bloom: a 176b-parameter open-access multilingual language model . arXiv preprint arXiv:2211.05100 . Cited by: §C.1 .",
+    "links": [
+      "#A3.SS1.SSS0.Px3.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 38,
+    "id": "bib.bib33",
+    "text": "L. Xue, N. Constant, A. Roberts, M. Kale, R. Al-Rfou, A. Siddhant, A. Barua, and C. Raffel (2020) MT5: a massively multilingual pre-trained text-to-text transformer . arXiv preprint arXiv:2010.11934 . Cited by: §C.1 .",
+    "links": [
+      "#A3.SS1.SSS0.Px1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 39,
+    "id": "bib.bib23",
+    "text": "S. Yeom, I. Giacomelli, M. Fredrikson, and S. Jha (2018) Privacy risk in machine learning: analyzing the connection to overfitting . In 2018 IEEE 31st computer security foundations symposium (CSF) , pp. 268–282 . Cited by: §2.3 .",
+    "links": [
+      "#S2.SS3.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 40,
+    "id": "bib.bib57",
+    "text": "J. Zhang, Q. Zhao, L. Li, and C. Lin (2025a) Extending memorization dynamics in pythia models from instance-level insights . arXiv preprint arXiv:2506.12321 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 41,
+    "id": "bib.bib9",
+    "text": "J. Zhang, J. Sun, E. Yeats, Y. Ouyang, M. Kuo, J. Zhang, H. F. Yang, and H. Li (2025b) Min-k%++: improved baseline for pre-training data detection from large language models . In The Thirteenth International Conference on Learning Representations , External Links: Link Cited by: §2.3 , §3.3 .",
+    "links": [
+      "#S2.SS3.p2.1",
+      "#S3.SS3.p1.1",
+      "https://openreview.net/forum?id=ZGkfoufDaU"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 42,
+    "id": "bib.bib20",
+    "text": "W. Zhang, R. Zhang, J. Guo, M. de Rijke, Y. Fan, and X. Cheng (2024) Pretraining data detection for large language models: a divergence-based calibration method . In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing , Y. Al-Onaizan, M. Bansal, and Y. Chen (Eds.) , Miami, Florida, USA . Cited by: §2.3 .",
+    "links": [
+      "#S2.SS3.p2.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 43,
+    "id": "bib.bib31",
+    "text": "Z. Zhou, J. Xiang, C. Chen, and S. Su (2024) Quantifying and analyzing entity-level memorization in large language models . In Proceedings of the AAAI Conference on Artificial Intelligence , Vol. 38 , pp. 19741–19749 . Cited by: §2.1 .",
+    "links": [
+      "#S2.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  }
+]

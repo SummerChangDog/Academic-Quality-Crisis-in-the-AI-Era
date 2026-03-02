@@ -1,0 +1,122 @@
+[
+  {
+    "index": 1,
+    "id": "bib.bib1",
+    "text": "[1] A. M. Turing, ”Computing Machinery and Intelligence,” Mind , 1950.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 2,
+    "id": "bib.bib2",
+    "text": "[2] F. Rosenblatt, ”The Perceptron,” Psychological Review , 1958.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 3,
+    "id": "bib.bib3",
+    "text": "[3] J. J. E. Slotine and W. Li, Applied Nonlinear Control , Prentice Hall, 1991.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 4,
+    "id": "bib.bib4",
+    "text": "[4] D. Angeli, ”A Lyapunov approach to incremental stability properties,” IEEE Transactions on Automatic Control , 2002.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 5,
+    "id": "bib.bib5",
+    "text": "[5] C. Guo, G. Pleiss, Y. Sun, and K. Q. Weinberger, ”On Calibration of Modern Neural Networks,” in Proceedings of the International Conference on Machine Learning (ICML) , 2017.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 6,
+    "id": "bib.bib6",
+    "text": "[6] Y. Ovadia et al., ”Can You Trust Your Model’s Uncertainty? Evaluating Predictive Uncertainty under Dataset Shift,” in Advances in Neural Information Processing Systems (NeurIPS) , 2019.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 7,
+    "id": "bib.bib7",
+    "text": "[7] C. Finn, P. Abbeel, and S. Levine, ”Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks,” in Proceedings of the International Conference on Machine Learning (ICML) , 2017.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 8,
+    "id": "bib.bib8",
+    "text": "[8] L. Zhang, J. Lucas, G. Hinton, and J. Ba, ”Lookahead Optimizer: k steps forward, 1 step back,” in Advances in Neural Information Processing Systems (NeurIPS) , 2019.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 9,
+    "id": "bib.bib9",
+    "text": "[9] R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction , MIT Press, 2018.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 10,
+    "id": "bib.bib10",
+    "text": "[10] H. K. Khalil, Nonlinear Systems , Prentice Hall, 2002.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 11,
+    "id": "bib.bib11",
+    "text": "[11] P. Ioannou and B. Fidan, Adaptive Control Tutorial , SIAM, 2012.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 12,
+    "id": "bib.bib12",
+    "text": "[12] C. Breazeal, ”Emotion and Sociable Humanoid Robots,” International Journal of Human-Computer Studies , 2003.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 13,
+    "id": "bib.bib13",
+    "text": "[13] L. Zaadnoordijk, J. Besold, and A. M. Slors, ”Infant-like Learning and Curiosity in AI Systems,” Cognitive Development , 2022.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 14,
+    "id": "bib.bib14",
+    "text": "[14] M. Zaheer, A. Ahmad, and A. Farooq, ”SOFAI: Self-Organising Framework for Artificial Introspection,” in Proceedings of the AAAI Conference on Artificial Intelligence , 2021.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 15,
+    "id": "bib.bib15",
+    "text": "[15] Y. Bengio, J. Louradour, R. Collobert, and J. Weston, ”Curriculum Learning,” in Proceedings of the International Conference on Machine Learning (ICML) , 2009.",
+    "links": [],
+    "doi": null,
+    "arxiv_id": null
+  }
+]

@@ -1,0 +1,427 @@
+[
+  {
+    "index": 1,
+    "id": "bib.bib22",
+    "text": "[1] (2015) ISO/iec is 15414, information technology - open distributed processing - enterprise language 3rd edn . Note: Also published as ITU-T Recommendation X.911 Cited by: §1 , §2.2 , §6.1 , §6.2 , §6.3.2 , §6.3.2 .",
+    "links": [
+      "#S1.p4.1",
+      "#S2.SS2.p1.1",
+      "#S6.SS1.p1.1",
+      "#S6.SS2.p1.1",
+      "#S6.SS3.SSS2.p1.1",
+      "#S6.SS3.SSS2.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 2,
+    "id": "bib.bib40",
+    "text": "[2] M. Ahn, A. Brohan, N. Brown, Y. Chebotar, O. Cortes, B. David, C. Finn, C. Fu, K. Gopalakrishnan, K. Hausman, et al. (2022) Do as i can, not as i say: grounding language in robotic affordances . In Conference on Robot Learning , pp. 287–318 . Cited by: §7 .",
+    "links": [
+      "#S7.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 3,
+    "id": "bib.bib42",
+    "text": "[3] Y. Bai, S. Kadavath, S. Kundu, A. Askell, J. Kernion, A. Jones, A. Chen, A. Goldie, A. Mirhoseini, C. McKinnon, et al. (2022) Constitutional ai: harmlessness from ai feedback . arXiv preprint arXiv:2212.08073 . Cited by: §7 .",
+    "links": [
+      "#S7.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 4,
+    "id": "bib.bib7",
+    "text": "[4] P. R. Cohen and H. J. Levesque (1990) Intention is choice with commitment . Artificial Intelligence 42 ( 2-3 ), pp. 213–261 . Cited by: §6.3.2 , §7 .",
+    "links": [
+      "#S6.SS3.SSS2.p1.1",
+      "#S7.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 5,
+    "id": "bib.bib38",
+    "text": "[5] M. Colombetti (2000) A commitment-based approach to agent speech acts and conversations . In Proceedings of the Workshop on Agent Languages and Communication Policies, 4th International Conference on Autonomous Agents , pp. 21–29 . Cited by: §7 .",
+    "links": [
+      "#S7.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 6,
+    "id": "bib.bib39",
+    "text": "[6] M. T. Cox and A. Raja (2011) Metareasoning: thinking about thinking . MIT Press . Cited by: §7 .",
+    "links": [
+      "#S7.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 7,
+    "id": "bib.bib9",
+    "text": "[7] D. B. Fogel (2018) Factors associated with clinical trials that fail and opportunities for improving the likelihood of success: a review . Contemporary Clinical Trials Communications 11 , pp. 156–164 . Cited by: §5.1 .",
+    "links": [
+      "#S5.SS1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 8,
+    "id": "bib.bib13",
+    "text": "[8] Foundation for Intelligent Physical Agents (2002) FIPA acl message structure specification . Technical report Technical Report SC00061G , FIPA . Cited by: §7 .",
+    "links": [
+      "#S7.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 9,
+    "id": "bib.bib2",
+    "text": "[9] E. Gamma, R. Helm, R. Johnson, and J. Vlissides (1995) Design patterns: elements of reusable object-oriented software . Addison-Wesley . Cited by: §1 , §3.1 , §7 , §8.1 .",
+    "links": [
+      "#S1.p3.1",
+      "#S3.SS1.p1.1",
+      "#S7.p1.1",
+      "#S8.SS1.p5.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 10,
+    "id": "bib.bib14",
+    "text": "[10] J. V. Hansen, G. Pigozzi, and L. van der Torre (2008) Normative systems represented as hybrid knowledge bases . In Normative Multi-Agent Systems , G. Boella, L. van der Torre, and H. Verhagen (Eds.) , Cited by: §7 .",
+    "links": [
+      "#S7.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 11,
+    "id": "bib.bib18",
+    "text": "[11] HL7 International (2023) FHIR release 4.0.1 . Note: http://hl7.org/fhir/ Accessed: 2025-11-08 Cited by: §8.2 .",
+    "links": [
+      "#S8.SS2.p4.1",
+      "http://hl7.org/fhir/"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 12,
+    "id": "bib.bib4",
+    "text": "[12] G. Hohpe and B. Woolf (2003) Enterprise integration patterns: designing, building, and deploying messaging solutions . Addison-Wesley . Cited by: §1 , §7 , §8.1 .",
+    "links": [
+      "#S1.p3.1",
+      "#S7.p1.1",
+      "#S8.SS1.p5.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 13,
+    "id": "bib.bib41",
+    "text": "[13] W. Huang, P. Abbeel, D. Pathak, and I. Mordatch (2022) Language models as zero-shot planners: extracting actionable knowledge for embodied agents . International Conference on Machine Learning (ICML) , pp. 9118–9147 . Cited by: §1 , §2.1 .",
+    "links": [
+      "#S1.p3.1",
+      "#S2.SS1.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 14,
+    "id": "bib.bib33",
+    "text": "[14] International Electrotechnical Commission (2006) IEC 62304: medical device software – software life cycle processes . International Standard IEC . Cited by: §7 .",
+    "links": [
+      "#S7.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 15,
+    "id": "bib.bib34",
+    "text": "[15] International Organization for Standardization (2018) ISO 26262: road vehicles – functional safety . International Standard ISO . Cited by: §7 .",
+    "links": [
+      "#S7.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 16,
+    "id": "bib.bib8",
+    "text": "[16] P. F. Linington, Z. Milosevic, A. Tanaka, and A. Vallecillo (2011) Building enterprise systems with odp: an introduction to open distributed processing . CRC Press . Cited by: §2.2 , §6.2 , §6.3.1 , §7 , §7 .",
+    "links": [
+      "#S2.SS2.p1.1",
+      "#S6.SS2.p2.1",
+      "#S6.SS3.SSS1.p1.1",
+      "#S7.p2.1",
+      "#S7.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 17,
+    "id": "bib.bib28",
+    "text": "[17] P. F. Linington, Z. Milosevic, A. Tanaka, and I. Dejanovic (2025) Using DSLs to manage consistency in long-lived enterprise language specifications . Software and Systems Modeling 24 , pp. 741–754 . External Links: Document , Link Cited by: §6.3.2 , §7 , §8.2 , footnote 4 .",
+    "links": [
+      "#S6.SS3.SSS2.p3.1",
+      "#S7.p2.1",
+      "#S8.SS2.p3.1",
+      "#footnote4",
+      "https://doi.org/10.1007/s10270-024-01243-4",
+      "https://dx.doi.org/10.1007/s10270-024-01243-4"
+    ],
+    "doi": "10.1007/s10270-024-01243-4",
+    "arxiv_id": null
+  },
+  {
+    "index": 18,
+    "id": "bib.bib23",
+    "text": "[18] Z. Milosevic and P. van Schalkwyk (2024-09) Part 5 – rules of engagement: establishing governance for multi-agent generative systems . Agentic AI For Industry . Cited by: §6.3.1 .",
+    "links": [
+      "#S6.SS3.SSS1.p6.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 19,
+    "id": "bib.bib31",
+    "text": "[19] Z. Milosevic and P. van Schalkwyk (2024) Towards responsible digital twins . In Enterprise Design, Operations, and Computing. EDOC 2023 Workshops , T. P. Sales, S. de Kinderen, H. A. Proper, L. Pufahl, D. Karastoyanova, and M. van Sinderen (Eds.) , Cham , pp. 123–138 . External Links: ISBN 978-3-031-54712-6 Cited by: §6.3.1 .",
+    "links": [
+      "#S6.SS3.SSS1.p6.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 20,
+    "id": "bib.bib35",
+    "text": "[20] J. A. Minson et al. (2025-November–December) A smarter way to disagree . Harvard Business Review , pp. 110–113 . Cited by: footnote 6 .",
+    "links": [
+      "#footnote6"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 21,
+    "id": "bib.bib45",
+    "text": "[21] C. Packer, V. Fang, S. G. Patil, K. Wooders, and I. Stoica (2023) MemGPT: towards llms as operating systems . arXiv preprint arXiv:2310.08560 . Cited by: §7 .",
+    "links": [
+      "#S7.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 22,
+    "id": "bib.bib3",
+    "text": "[22] F. Rabhi and S. Gorlatch (2003) Patterns and skeletons for parallel and distributed computing . Springer Verlag . Cited by: §1 .",
+    "links": [
+      "#S1.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 23,
+    "id": "bib.bib12",
+    "text": "[23] A. S. Rao and M. P. Georgeff (1995) BDI agents: from theory to practice . Proceedings of the First International Conference on Multi-Agent Systems (ICMAS-95) , pp. 312–319 . Cited by: §7 .",
+    "links": [
+      "#S7.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 24,
+    "id": "bib.bib32",
+    "text": "[24] RTCA (2011) DO-178c: software considerations in airborne systems and equipment certification . Standard RTCA, Inc. . Cited by: §7 .",
+    "links": [
+      "#S7.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 25,
+    "id": "bib.bib20",
+    "text": "[25] R. Sapkota, K. I. Roumeliotis, and M. Karkee (2026-02) AI agents vs. agentic ai: a conceptual taxonomy, applications and challenges . Information Fusion 126 , pp. 103599 . External Links: ISSN 1566-2535 , Link , Document Cited by: §2.1 , footnote 1 .",
+    "links": [
+      "#S2.SS1.p1.1",
+      "#footnote1",
+      "http://dx.doi.org/10.1016/j.inffus.2025.103599",
+      "https://dx.doi.org/10.1016/j.inffus.2025.103599"
+    ],
+    "doi": "10.1016/j.inffus.2025.103599",
+    "arxiv_id": null
+  },
+  {
+    "index": 26,
+    "id": "bib.bib43",
+    "text": "[26] T. Schick, J. Dwivedi-Yu, R. Dessì, R. Raileanu, M. Lomeli, L. Zettlemoyer, N. Cancedda, and T. Scialom (2023) Toolformer: language models can teach themselves to use tools . arXiv preprint arXiv:2302.04761 . Cited by: §1 , §7 .",
+    "links": [
+      "#S1.p3.1",
+      "#S7.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 27,
+    "id": "bib.bib6",
+    "text": "[27] N. Shinn, F. Cassano, A. Gopinath, K. Narasimhan, and S. Yao (2023) Reflexion: language agents with verbal reinforcement learning . Advances in Neural Information Processing Systems 36 . Cited by: §1 , §2.1 .",
+    "links": [
+      "#S1.p3.1",
+      "#S2.SS1.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 28,
+    "id": "bib.bib37",
+    "text": "[28] P. Stone and M. Veloso (2000) Multiagent systems: a survey from a machine learning perspective . Autonomous Robots 8 ( 3 ), pp. 345–383 . Cited by: §7 .",
+    "links": [
+      "#S7.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 29,
+    "id": "bib.bib50",
+    "text": "[29] U.S. Department of Health and Human Services (1996) Health Insurance Portability and Accountability Act of 1996 . Note: Public Law 104-19145 CFR Parts 160, 162, and 164 Cited by: §6.5 .",
+    "links": [
+      "#S6.SS5.SSS0.Px1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 30,
+    "id": "bib.bib51",
+    "text": "[30] U.S. Securities and Exchange Commission and Financial Industry Regulatory Authority (2010) Securities and Exchange Commission and FINRA Regulatory Framework for Algorithmic Trading . Note: SEC Release No. 34-61358; FINRA Rule 3110 Cited by: §6.5 .",
+    "links": [
+      "#S6.SS5.SSS0.Px1.p1.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 31,
+    "id": "bib.bib49",
+    "text": "[31] P. van Schalkwyk (2025-01) Industrial agentic operations need DecisionGraphs, not just context graphs . Note: XMPRO Blog External Links: Link Cited by: §6.6 , §6.6 .",
+    "links": [
+      "#S6.SS6.p1.1",
+      "#S6.SS6.p3.1",
+      "https://xmpro.com/industrial-agentic-operations-decisiongraphs/"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 32,
+    "id": "bib.bib24",
+    "text": "[32] P. van Schalkwyk (2025) Multi-agent generative systems (MAGS): industrial AI architecture . XMPRO Technologies . Note: https://xmpro.com/agentic-ai/multi-agent-generative-systems/ Accessed: 2025-11-28 Cited by: §1 .",
+    "links": [
+      "#S1.p2.1",
+      "https://xmpro.com/agentic-ai/multi-agent-generative-systems/"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 33,
+    "id": "bib.bib1",
+    "text": "[33] L. Wang, C. Ma, X. Feng, Z. Zhang, H. Yang, J. Zhang, Z. Chen, J. Tang, X. Chen, Y. Lin, et al. (2024) A survey on large language model based autonomous agents . Frontiers of Computer Science 18 ( 6 ), pp. 186345 . Cited by: §1 , §2.1 , §7 .",
+    "links": [
+      "#S1.p1.1",
+      "#S2.SS1.p4.1",
+      "#S7.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 34,
+    "id": "bib.bib15",
+    "text": "[34] H. Washizaki, H. Uchida, F. Khomh, and Y. Guéhéneuc (2022) Systematic literature review of machine learning design pattern . In 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) , pp. 1230–1234 . Cited by: §7 .",
+    "links": [
+      "#S7.p5.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 35,
+    "id": "bib.bib44",
+    "text": "[35] L. Weng (2023-06) LLM powered autonomous agents . Note: https://lilianweng.github.io/posts/2023-06-23-agent/ Blog post Cited by: §7 .",
+    "links": [
+      "#S7.p3.1",
+      "https://lilianweng.github.io/posts/2023-06-23-agent/"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 36,
+    "id": "bib.bib10",
+    "text": "[36] M. Wooldridge (2009) An introduction to multiagent systems . 2nd edition , John Wiley & Sons . Cited by: §2.1 , §7 .",
+    "links": [
+      "#S2.SS1.p2.1",
+      "#S7.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 37,
+    "id": "bib.bib46",
+    "text": "[37] Q. Wu, G. Bansal, J. Zhang, Y. Wu, B. Li, E. Zhu, L. Jiang, X. Zhang, S. Zhang, J. Liu, et al. (2023) AutoGen: enabling next-gen llm applications via multi-agent conversation . arXiv preprint arXiv:2308.08155 . Cited by: §7 .",
+    "links": [
+      "#S7.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 38,
+    "id": "bib.bib11",
+    "text": "[38] Z. Xi, W. Chen, X. Guo, W. He, Y. Ding, B. Hong, M. Zhang, J. Wang, S. Jin, E. Zhou, et al. (2023) The rise and potential of large language model based agents: a survey . arXiv preprint arXiv:2309.07864 . Cited by: §7 .",
+    "links": [
+      "#S7.p3.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  },
+  {
+    "index": 39,
+    "id": "bib.bib5",
+    "text": "[39] S. Yao, J. Zhao, D. Yu, N. Du, I. Shafran, K. Narasimhan, and Y. Cao (2023) ReAct: synergizing reasoning and acting in language models . arXiv preprint arXiv:2210.03629 . Cited by: §1 , §2.1 .",
+    "links": [
+      "#S1.p3.1",
+      "#S2.SS1.p4.1"
+    ],
+    "doi": null,
+    "arxiv_id": null
+  }
+]
